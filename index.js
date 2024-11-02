@@ -12,6 +12,7 @@ const students = [
 const faculty = [
   { id: 1, name: 'BHARGAVI' },
   { id: 2, name: 'Prof. Green' }
+  { id: 2, name: 'Prof. Green' }
 ];
 
 const courses = [
